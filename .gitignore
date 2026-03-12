@@ -1,0 +1,31 @@
+# Data
+data/
+
+# Model weights
+*.pth
+*.pt
+*.h5
+*.hdf5
+*.ckpt
+*.safetensors
+*.pkl
+experiments/*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Conda environment
+.conda/
+
+# Trash
+trash/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
